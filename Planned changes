@@ -1,0 +1,8 @@
+Adding multiple line items for:
+-item
+-shipper(name,address line,city, state/prvince, ZIP postal)
+-pickup date
+-consignee(name,address line,city, state/prvince, ZIP postal)
+-delivery date
+-amount
+
